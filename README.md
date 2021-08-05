@@ -6,7 +6,7 @@
 <p> • &ensp;🤓 &ensp;Programador há <b>5 anos</b> </p>
 <p> • &ensp;⚙️  &ensp;Apaixonado por <b> Desenvolvimento Back-End </b> </p>
 <p> • &ensp;🧑🏻‍💻 &nbsp;<b>Técnico em Informática </b> pela Etec </p>
-<p> • &ensp;🎓 &ensp;Cursando <b> Sistemas de Informação </b> na USP </p>
+<p> • &ensp;🎓 &ensp;Bacharelando em <b> Sistemas de Informação </b> pela USP </p>
 <p> • &ensp;🐍 &ensp;Mergulhando nas profundezas do <b> Python </b> </p> <br>
 </div>
 
