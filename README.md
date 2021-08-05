@@ -1,11 +1,11 @@
-## Olá! Eu sou Myke
+## Olá! Bem-vindo(a) ao universo de Myke Leony
 
 <img src = "https://github.com/mykeleony/mykeleony/blob/main/coruja.png" width = "250px" height="180px" align = "right">
 
 <div>
-<p> • &ensp;🤓 &ensp;Desenvolvedor há <b>5 anos</b> </p>
-<p> • &ensp;⚙️  &ensp;Apaixonado por <b> Back-end </b> </p>
-<p> • &ensp;🧑🏻‍💻 &nbsp;<b> Técnico em Informática </b> pela Etec </p>
+<p> • &ensp;🤓 &ensp;Programador há <b>5 anos</b> </p>
+<p> • &ensp;⚙️  &ensp;Apaixonado por <b> Desenvolvimento Back-End </b> </p>
+<p> • &ensp;🧑🏻‍💻 &nbsp;<b>Técnico em Informática </b> pela Etec </p>
 <p> • &ensp;🎓 &ensp;Cursando <b> Sistemas de Informação </b> na USP </p>
 <p> • &ensp;🐍 &ensp;Mergulhando nas profundezas do <b> Python </b> </p> <br>
 </div>
