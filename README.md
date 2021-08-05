@@ -1,9 +1,8 @@
 ## Olá! Eu sou Myke
 
-
 - 🤓 Desenvolvedor há 5 anos
 - ⚙️  Apaixonado por Back-end
-- 🧑🏻‍💻 Técnico em Informática pela Etec 
+- 🧑🏻‍💻 Técnico em Informática pela Etec
 - 🎓 Bacharelando em Sistemas de Informação pela USP
 - 🐍 Mergulhando nas profundezas do Python
 
@@ -25,7 +24,7 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
 </div>
   
-##
+---
   
 <div> 
   <a href="https://www.linkedin.com/in/myke-amorim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
