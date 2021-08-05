@@ -1,6 +1,6 @@
 ## Olá! Bem-vindo(a) ao universo de Myke Leony
 
-<img src = "https://i.pinimg.com/originals/83/d5/c1/83d5c1ac8357c1806991e4c226ad6ca1.gif" width = "250px" height="210px" align = "right">
+<img src = "https://i.pinimg.com/originals/83/d5/c1/83d5c1ac8357c1806991e4c226ad6ca1.gif" width = "250px" height="200px" align = "right">
 
 <div>
 <p> • &ensp;🤓 &ensp;Programador há <b>5 anos</b> </p>
