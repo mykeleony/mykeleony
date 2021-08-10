@@ -1,7 +1,5 @@
 ## Olá! Bem-vindo(a) ao universo de Myke Leony
-
 <img src = "https://i.pinimg.com/originals/83/d5/c1/83d5c1ac8357c1806991e4c226ad6ca1.gif" width = "250px" height="200px" align = "right">
-
 <div>
 <p> • &ensp;🤓 &ensp;Programador há <b>5 anos</b> </p>
 <p> • &ensp;⚙️  &ensp;Apaixonado por <b> Desenvolvimento Back-End </b> </p>
@@ -12,10 +10,10 @@
 
 <div>
   <a href="https://github.com/mykeleony">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mykeleony&icon_color=purple&hide_border=true&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-BR"/>
-  <img height="180em" align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykeleony&layout=compact&custom_title=Linguagens prediletas <3&hide=shell,batchfile&langs_count=7&hide_border=true&theme=dark&locale=pt-BR"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mykeleony&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykeleony&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+
 <div style="display: inline_block" align = "middle"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-line.svg">
@@ -37,5 +35,3 @@
   <a href="https://lichess.org/@/mykebosta" target="_blank"><img src="https://img.shields.io/badge/-LICHESS-orange?style=for-the-badge&logo=Lichess" target="_blank"></a> 
  
   ![Snake animation](https://github.com/mykeleony/mykeleony/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
