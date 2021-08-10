@@ -11,7 +11,7 @@
 <div>
   <a href="https://github.com/mykeleony">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mykeleony&show_icons=true&icon_color=purple&hide_border=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykeleony&layout=compact&hide_border=true&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykeleony&layout=compact&hide_border=true&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block" align = "middle"><br>
