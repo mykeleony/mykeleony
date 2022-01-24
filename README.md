@@ -3,7 +3,7 @@
 <div>
 <p> • &ensp;🤓 &ensp;Programador há <b>5 anos</b> </p>
 <p> • &ensp;⚙️  &ensp;Apaixonado por <b> Desenvolvimento Back-End </b> </p>
-<p> • &ensp;🧑🏻‍💻 &nbsp;<b>Técnico em Informática </b> pela Etec </p>
+<p> • &ensp;💻 &nbsp;<b>Técnico em Informática </b> pela Etec </p>
 <p> • &ensp;🎓 &ensp;Bacharelando em <b> Sistemas de Informação </b> pela USP </p>
 <p> • &ensp;🐍 &ensp;Mergulhando nas profundezas do <b> Python </b> </p> <br>
 </div>
@@ -19,11 +19,11 @@
   <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-line.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
 </div>
   
 ---
