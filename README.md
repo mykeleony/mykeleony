@@ -5,7 +5,7 @@
 <p> • &ensp;⚙️  &ensp;Apaixonado por <b> Desenvolvimento Back-End </b> </p>
 <p> • &ensp;💻 &nbsp;<b>Técnico em Informática </b> pela Etec </p>
 <p> • &ensp;🎓 &ensp;Bacharelando em <b> Sistemas de Informação </b> pela USP </p>
-<p> • &ensp;🐍 &ensp;Mergulhando nas profundezas do <b> Python </b> </p> <br>
+<p> • &ensp;☕️ &ensp;Mergulhando nas profundezas de <b> Java </b> </p> <br>
 </div>
 
 <div>
