@@ -17,7 +17,7 @@
 <h1> Habilidades técnicas </h1>
 
 [![Estatísticas Githubeanas](https://github-readme-stats.vercel.app/api?username=mykeleony&bg_color=00000000&line_height=33&custom_title=Estatisticas+Githubeanas&show_icons=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Linguagens mais usadas por mim](https://github-readme-stats.vercel.app/api/top-langs/?username=mykeleony&langs_count=4&hide=c&custom_title=Linguagens+mais+utilizadas&card_width=480&theme=midnight-purple&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas por mim](https://github-readme-stats.vercel.app/api/top-langs/?username=mykeleony&langs_count=4&hide=c&custom_title=Linguagens+mais+utilizadas&card_width=380&theme=midnight-purple&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block" align = "middle"><br>
   <h3> Minha <i>stack</i> tecnológica </h3>
