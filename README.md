@@ -1,6 +1,12 @@
-## Olá! Bem-vindo(a) ao universo de Myke Amorim
+# Olá! Bem-vindo(a) ao universo de Myke Amorim
 
-### Acomode-se e sinta-se à vontade para vasculhar toda a minha trajetória, desde o início à atualidade, e observar minha evolução. Caso ainda não me conheça, permita-me apresentar:
+Se você está procurando por códigos limpos, projetos bem documentados e uma pitada de humor (porque vamos combinar, o mundo da tecnologia já é sério o bastante), você veio ao lugar certo.
+
+Aqui, você pode encontrar alguns dos meus projetos mais recentes e um pouco sobre minhas habilidades e experiências. E se você se interessou pelo que viu e quer saber mais, não hesite em entrar em contato. Prometo não ser tão sério quanto pareço nessa minha foto de perfil de robô. De verdade.
+
+Bom, agora que eu terminei de me vender, sinta-se à vontade para dar uma olhada ao redor e se divertir. Até mais!
+
+### Caso ainda não me conheça, permita-me apresentar:
 
 
 <img src = "https://i.pinimg.com/originals/83/d5/c1/83d5c1ac8357c1806991e4c226ad6ca1.gif" width = "250px" height="200px" align = "right">
