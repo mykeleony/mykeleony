@@ -22,8 +22,8 @@ Alright, now that I've finished bragging, have a look around and enjoy yourself.
 
 <h1> Hard Skills </h1>
 
-[![Github statistics](https://github-readme-stats.vercel.app/api?username=mykeleony&bg_color=00000000&line_height=33&custom_title=Estatisticas+Githubeanas&show_icons=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Most used languages by me](https://github-readme-stats.vercel.app/api/top-langs/?username=mykeleony&langs_count=4&hide=c&custom_title=Linguagens+mais+utilizadas&card_width=300&theme=midnight-purple&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Github statistics](https://github-readme-stats.vercel.app/api?username=mykeleony&bg_color=00000000&line_height=33&custom_title=Github+statistics&show_icons=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Most used languages by me](https://github-readme-stats.vercel.app/api/top-langs/?username=mykeleony&langs_count=4&hide=c&custom_title=Most+used+languages+by+me&card_width=300&theme=midnight-purple&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block" align = "middle"><br>
   <h3> My tech <i>stack</i> </h3>
