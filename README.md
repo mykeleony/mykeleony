@@ -11,11 +11,11 @@ Alright, now that I've finished bragging, have a look around and enjoy yourself.
 
 <img src = "https://i.pinimg.com/originals/83/d5/c1/83d5c1ac8357c1806991e4c226ad6ca1.gif" width = "250px" height="200px" align = "right">
 <div style="margin: 113px;">
-<p> • &ensp;🤓 &ensp;<b>6-year</b> developer </p>
+<p> • &ensp;🤓 &ensp;<b>9-year</b> developer </p>
 <p> • &ensp;⚙️  &ensp;Passionate about <b> Back-end development </b> </p>
 <p> • &ensp;🎓 &ensp;Holding a Bachelor's degree in <b> Information Systems </b> from USP </p>
 <p> • &ensp;💻 &nbsp; <b>Information Technology Specialist </b> from Etec </p>
-<p> • &ensp;☕️ &ensp;Diving into the depths of <b> Angular </b> and <b> Spring </b> </p>
+<p> • &ensp;☕️ &ensp;Diving into the depths of <b> Spring </b> and <b> Angular </b> </p>
 </div> <br>
 
 > "The owl symbolizes the quest for growth and foresight, attaining loftier flights. It also represents, through its capability of perceiving through darkness, introspection and intuitive rational thought." <br>
@@ -28,24 +28,34 @@ Alright, now that I've finished bragging, have a look around and enjoy yourself.
 <div style="display: inline_block" align = "middle"><br>
   <h3> My tech <i>stack</i> </h3>
   <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Quarkus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/quarkus/quarkus-original.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="IntelliJ" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Redis" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <img align="center" alt="Kubernetes" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Kafka" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Jenkins" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="Terraform" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Prometheus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-line.svg">
+  <img align="center" alt="Grafana" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-line.svg">
+  <img align="center" alt="Postman" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
+  <img align="center" alt="OpenAPI" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg">
 </div>
   
 <div style="display: inline_block" align = "middle"><br>
   <h3> For planning, management, presentation and organization </h3>
+  <img align="center" alt="Jira" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
   <img align="center" alt="Trello" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
   <img align="center" alt="Canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Notion" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg">
+  <img align="center" alt="Markdown" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
+  <img align="center" alt="Latex" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
   <img align="center" alt="Slack" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">
+  <img align="center" alt="Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
 </div>
   
 ---
