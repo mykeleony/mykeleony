@@ -11,11 +11,11 @@ Alright, now that I've finished bragging, have a look around and enjoy yourself.
 
 <img src = "https://i.pinimg.com/originals/83/d5/c1/83d5c1ac8357c1806991e4c226ad6ca1.gif" width = "250px" height="200px" align = "right">
 <div style="margin: 113px;">
-<p> • &ensp;🤓 &ensp;<b>9-year</b> developer </p>
+<p> • &ensp;🤓 &ensp;<b>10-year</b> developer </p>
 <p> • &ensp;⚙️  &ensp;Passionate about <b> Back-end development </b> </p>
 <p> • &ensp;🎓 &ensp;Holding a Bachelor's degree in <b> Information Systems </b> from USP </p>
 <p> • &ensp;💻 &nbsp; <b>Information Technology Specialist </b> from Etec </p>
-<p> • &ensp;☕️ &ensp;Diving into the depths of <b> Spring </b> and <b> Angular </b> </p>
+<p> • &ensp;☕️ &ensp;Diving into the depths of <b> AWS </b> and <b> Golang </b> </p>
 </div> <br>
 
 > "The owl symbolizes the quest for growth and foresight, attaining loftier flights. It also represents, through its capability of perceiving through darkness, introspection and intuitive rational thought." <br>
